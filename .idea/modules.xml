@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnnotationProcessorTest.iml" filepath="$PROJECT_DIR$/AnnotationProcessorTest.iml" />
+      <module fileurl="file://D:\Projects\AnnotationProcessorTest\MockButterknife-complier\MockButterknife.iml" filepath="D:\Projects\AnnotationProcessorTest\MockButterknife-complier\MockButterknife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MockButterknife-complier/MockButterknife-complier.iml" filepath="$PROJECT_DIR$/MockButterknife-complier/MockButterknife-complier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mockbutterknife-source/Mockbutterknife-source.iml" filepath="$PROJECT_DIR$/Mockbutterknife-source/Mockbutterknife-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

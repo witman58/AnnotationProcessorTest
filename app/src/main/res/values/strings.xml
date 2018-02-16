@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AnnotationProcessorTest</string>
+
+    <!-- main dialog -->
+    <string name="main_click">请点击这里</string>
+    <string name="main_dont_click">请不要点击这里</string>
+    <string name="main_toast">点击这里没有用哦！</string>
+
+    <!-- about dialog -->
+    <string name="about_title">关于</string>
+    <string name="about_message">本示例模仿Butterknife，实现@BindView、@OnClick注解处理，重点在于演示如何构建编译时注解解析框架</string>
+    <string name="about_btn_ok">确定</string>
+</resources>
